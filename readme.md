@@ -79,10 +79,10 @@ Recomendado possuir noções básicas de:
 ## 🚀 Entregas do Bootcamp (Portfólio)
 
 ### ✅ FASE_01 – Entrevistador Especialista (IA)
-Agente focado em coletar informações do perfil e conduzir perguntas estruturadas para orientar decisões e próximos passos.
+Evidenciando como essa fase foi realizada com o auxílio do prompt fornecido pela DIO.
 
 ### ✅ FASE_02 – Planejador de Carreiras Especializado (IA)
-Agente focado em gerar um plano estruturado, com visão de rotina, mapa de skills e roadmap de evolução.
+Com o resultado da FASE_01, foi possível alcançar o resultado da FASE_02
 
 ---
 
