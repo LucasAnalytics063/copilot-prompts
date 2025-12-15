@@ -4,11 +4,11 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucasbribeiro-analytic" target="_blank">
+  <a href="www.linkedin.com/in/lucasbribeiro-analytic" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/llucas_br/" target="_blank">
+  <a href="www.instagram.com/llucas_br/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
