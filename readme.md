@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="www.linkedin.com/in/lucasbribeiro-analytic" target="_blank">
+  <a href=" www.linkedin.com/in/lucasbribeiro-analytics" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
