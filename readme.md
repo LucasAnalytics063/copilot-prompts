@@ -89,8 +89,8 @@ Agente focado em gerar um plano estruturado, com visão de rotina, mapa de skill
 
 ## 🔗 Links
 
-- LinkedIn: https://www.linkedin.com/in/lucasbribeiro-analytic  
-- Instagram: https://www.instagram.com/llucas_br/
+- LinkedIn: www.linkedin.com/in/lucasbribeiro-analytics 
+- Instagram: www.instagram.com/llucas_br/
 
 ---
 
