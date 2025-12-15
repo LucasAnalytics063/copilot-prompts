@@ -4,18 +4,17 @@
 </div>
 
 <div align="center">
-  <a href=" www.linkedin.com/in/lucasbribeiro-analytics" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasbribeiro-analytics/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="www.instagram.com/llucas_br/" target="_blank">
+  <a href="https://www.instagram.com/llucas_br/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
 
 <div align="center">
-  <h1>Portfólio – IA Mentor de Carreira: Descubra Seu Futuro em Tech
-</h1>
+  <h1>Portfólio – IA Mentor de Carreira: Descubra Seu Futuro em Tech</h1>
   <p>
     Bootcamp <strong>CAIXA – Inteligência Artificial na Prática</strong><br>
     DIO
