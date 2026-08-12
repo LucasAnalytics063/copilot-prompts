@@ -2,7 +2,6 @@
 <div align="center">
   <img src="./assets/foto-lucas.jpg" alt="Foto de Lucas" width="180" style="border-radius: 50%;" />
 </div>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/lucasbribeiro-analytics/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -12,9 +11,8 @@
     <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
-
 <div align="center">
-  <h1>Portfólio – IA Mentor de Carreira: Descubra Seu Futuro em Tech</h1>
+  <h1>Portfólio — IA Mentor de Carreira: Inteligência Aplicada ao Desenvolvimento Profissional em Tech</h1>
   <p>
     Bootcamp <strong>CAIXA – Inteligência Artificial na Prática</strong><br>
     DIO
@@ -24,76 +22,81 @@
 
 ---
 
-## 💻 Sobre o Projeto
+## Visão Geral
 
-Este repositório apresenta o portfólio prático desenvolvido no bootcamp **CAIXA – Inteligência Artificial na Prática**, com foco em aplicações reais de IA na vida pessoal e profissional.
+Este repositório documenta o portfólio técnico desenvolvido no bootcamp **CAIXA - Inteligência Artificial na Prática**, com foco em aplicações reais de IA para resolução de problemas de carreira, tomada de decisão e produtividade profissional.
 
-O portfólio é centrado em **engenharia de prompts**, com construção de soluções como:
-- simulador de entrevistas técnicas com IA (Microsoft Copilot como referência de abordagem),
-- mentor de carreira com IA,
-- aplicação de IA para organização e tomada de decisão (incluindo contexto financeiro e profissional).
-
-O objetivo é demonstrar **clareza, aplicabilidade e organização**, priorizando soluções que gerem valor no dia a dia.
+O eixo central do portfólio é **engenharia de prompts aplicada** não como exercício acadêmico, mas como metodologia de construção de agentes e fluxos que entregam valor mensurável em contextos reais. As soluções desenvolvidas cobrem simulação de entrevistas técnicas, mentoria de carreira com IA e suporte estruturado à decisão profissional e financeira.
 
 ---
 
-## 🎯 Objetivo do Portfólio
+## Problema que Este Portfólio Resolve
 
-Demonstrar capacidade de:
-- aplicar IA de forma prática para resolver problemas reais;
-- estruturar prompts orientados a objetivos e resultados;
-- criar agentes/fluxos de IA para apoio a carreira, entrevistas e decisões;
-- documentar de forma profissional e avaliável (padrão DIO).
+Profissionais em transição ou evolução de carreira enfrentam três gargalos recorrentes:
+
+- **Falta de feedback estruturado** antes de entrevistas técnicas — a prática é informal e pouco replicável
+- **Ausência de um plano de carreira baseado em dados** decisões são tomadas por intuição, não por análise de mercado
+- **Dificuldade em organizar e priorizar** competências de forma estratégica para o momento atual
+
+As soluções deste portfólio atacam cada um desses pontos com agentes de IA construídos via prompt engineering estruturado.
+
+## Stack e Abordagem
+
+|    Camada    |                    Tecnologia / Método                                |
+|--------------|-----------------------------------------------------------------------|
+| Motor de IA  | Microsoft Copilot / GPT-4                                             |
+| Metodologia  | Engenharia de Prompts orientada a objetivos                           |
+| Documentação | Padrão de portfólio técnico avaliável (DIO)                           |
+| Aplicação    | Agentes especializados: entrevistador, mentor de carreira, planejador |
 
 ---
 
-## 📚 Pré-requisitos de Conhecimento
-
-Recomendado possuir noções básicas de:
-- lógica de programação;
-- ferramentas digitais e produtividade;
-- fundamentos de IA (conceitos gerais);
-- noções de finanças pessoais e tomada de decisão.
-
----
-
-## 🛠️ Habilidades Desenvolvidas
+## Habilidades Desenvolvidas
 
 ### Engenharia de Prompts
-- prompts com objetivo, contexto, restrições e formato de saída;
-- padronização de instruções para respostas consistentes;
-- criação de agentes especialistas (entrevistador, planejador, mentor).
+- Estruturação de prompts com objetivo, contexto, restrições e formato de saída definidos
+- Padronização de instruções para geração de respostas consistentes e auditáveis
+- Construção de agentes com personas especializadas: entrevistador técnico, mentor de carreira, consultor financeiro
 
-### IA aplicada ao cotidiano e carreira
-- simulação de entrevistas;
-- planejamento de carreira e evolução de habilidades;
-- apoio à tomada de decisão e organização.
+### IA Aplicada a Carreira e Decisão
+- Simulação de entrevistas com feedback estruturado por competência
+- Planejamento de evolução profissional baseado em gap analysis com o mercado
+- Suporte à tomada de decisão com contexto e critérios explícitos
 
-### Documentação e Portfólio
-- estrutura de entrega clara;
-- organização do repositório para avaliação;
-- comunicação objetiva voltada ao negócio.
-
----
-
-## 🚀 Entregas do Bootcamp (Portfólio)
-
-### ✅ FASE_01 – Entrevistador Especialista (IA)
-Evidenciando como essa fase foi realizada com o auxílio do prompt fornecido pela DIO.
-
-### ✅ FASE_02 – Planejador de Carreiras Especializado (IA)
-Com o resultado da FASE_01, foi possível alcançar o resultado da FASE_02
+### Documentação Técnica
+- Organização de repositório para avaliação e leitura por recrutadores e pares técnicos
+- Comunicação orientada a impacto — o que foi construído, por quê e qual problema resolve
+- Rastreabilidade entre prompt, processo e entrega
 
 ---
 
-## 🔗 Links
+## Entregas do Bootcamp
 
-- LinkedIn: www.linkedin.com/in/lucasbribeiro-analytics 
-- Instagram: www.instagram.com/llucas_br/
+### Fase 01 — Entrevistador Especialista com IA
+Construção de um agente simulador de entrevistas técnicas via prompt estruturado. O agente assume o papel de entrevistador especializado, conduz a sessão por competências definidas e entrega feedback por critério ao final — replicando o rigor de um processo seletivo real.
+
+### Fase 02 — Mentor de Carreira com IA
+A partir do diagnóstico gerado na Fase 01, o agente de mentoria cruza o perfil identificado com demandas reais de mercado, mapeia lacunas e gera um plano de desenvolvimento com priorização clara — não conselhos genéricos, mas direcionamento baseado no perfil específico do usuário.
 
 ---
 
-## 👤 Autor
+## Pré-requisitos
 
-**Lucas**  
-Portfólio desenvolvido no Bootcamp **CAIXA – Inteligência Artificial na Prática (DIO)**
+Para replicar ou evoluir as soluções deste portfólio:
+
+- Noções de lógica e raciocínio estruturado
+- Familiaridade com ferramentas digitais e interfaces de IA
+- Conceitos básicos de inteligência artificial (não é necessário saber programar)
+- Interesse em carreira em tecnologia, dados ou áreas correlatas
+
+---
+
+- LinkedIn: [lucasbribeiro-analytics](https://www.linkedin.com/in/lucasbribeiro-analytics)
+---
+*Portfólio desenvolvido no Bootcamp **CAIXA – Inteligência Artificial na Prática** — DIO*
+
+## Autor
+
+**Lucas Beserra Ribeiro**
+Analista de Business Intelligence | Sicoob Tocantins
+[GitHub: LucasAnalytics063](https://github.com/LucasAnalytics063)
